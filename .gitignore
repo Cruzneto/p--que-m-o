@@ -1,0 +1,25 @@
+# Compilação Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Pastas geradas automaticamente
+bin/
+target/
+out/
+
+# Configuração do IDE
+*.iml
+.idea/
+*.log
+*.swp
+.DS_Store
+
+# Maven e Gradle
+.mvn/
+.gradle/
+build/
+
+# Credenciais
+*.env
